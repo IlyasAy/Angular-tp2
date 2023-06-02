@@ -1,0 +1,17 @@
+{
+    "MENU": {
+      "USERS": "Manage users",
+      "HOME": "Home"
+    },
+    "HEADER":{
+      "TITLE":"Angular training"
+    },
+    "TABLE":{
+      "ID":"ID",
+      "AVATAR":"Avatar",
+      "FIRSTNAME":"First name",
+      "LASTNAME":"Last name",
+      "EMAIL" : "Email address"
+    }
+}
+  

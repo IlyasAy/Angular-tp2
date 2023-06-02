@@ -1,0 +1,16 @@
+{
+    "MENU": {
+      "USERS": "Gestion des utilisateurs",
+      "HOME": "page d'accueil "
+    },
+    "HEADER":{
+      "TITLE":"Formation Angular"
+    },
+    "TABLE":{
+      "ID":"ID",
+      "AVATAR":"Avatar",
+      "FIRSTNAME":"Prenom",
+      "LASTNAME":"Nom",
+      "EMAIL":"Adresse Email"
+    }
+}
